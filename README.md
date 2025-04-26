@@ -9,8 +9,8 @@
 
 🚀 [Click here to launch the app](https://your-deployment-link.com)  
 🖼️ *Preview:*
-
-![App Screenshot](https://your-screenshot-link.com)
+![Screenshot 2025-04-26 154027](https://github.com/user-attachments/assets/6a3f2b17-1cc3-41b6-bf8f-bf1708f86ffd)
+![Screenshot 2025-04-26 154045](https://github.com/user-attachments/assets/d98df40c-79f9-44ea-9821-5e054fba8941)
 
 ---
 
