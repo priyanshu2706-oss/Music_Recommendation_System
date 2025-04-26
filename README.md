@@ -5,9 +5,6 @@
 
 ---
 
-## 🔥 Live Demo
-
-🚀 [Click here to launch the app](https://your-deployment-link.com)  
 🖼️ *Preview:*
 ![Screenshot 2025-04-26 154027](https://github.com/user-attachments/assets/6a3f2b17-1cc3-41b6-bf8f-bf1708f86ffd)
 ![Screenshot 2025-04-26 154045](https://github.com/user-attachments/assets/d98df40c-79f9-44ea-9821-5e054fba8941)
@@ -37,7 +34,6 @@ Build a personalized and modern music recommendation system where users can sele
 |---------------|----------------------------------------|
 | Frontend      | Dash (Plotly), Dash Bootstrap Components |
 | Backend       | Python, Pandas, Spotipy (Spotify API)   |
-| Deployment    | Render |
 | Data Source   | Spotify Global Charts, User Listening Trends |
 
 ---
