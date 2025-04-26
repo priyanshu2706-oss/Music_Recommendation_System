@@ -37,7 +37,7 @@ Build a personalized and modern music recommendation system where users can sele
 |---------------|----------------------------------------|
 | Frontend      | Dash (Plotly), Dash Bootstrap Components |
 | Backend       | Python, Pandas, Spotipy (Spotify API)   |
-| Deployment    | Streamlit Sharing / Vercel / Render / Heroku |
+| Deployment    | Render |
 | Data Source   | Spotify Global Charts, User Listening Trends |
 
 ---
